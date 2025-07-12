@@ -1,1 +1,6 @@
+__pycache__/
+*.pyc
+*.log
 firewall_log.txt
+.env
+
